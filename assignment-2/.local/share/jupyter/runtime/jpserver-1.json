@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 1,
+  "port": 8888,
+  "root_dir": "/home/assignment",
+  "secure": false,
+  "sock": "",
+  "token": "b00ad6a7401545d8c06857462bd17358ff45cf0c190372da",
+  "url": "http://2fe76c967305:8888/",
+  "version": "1.23.4"
+}
