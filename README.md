@@ -1,1 +1,0 @@
-![Sushil Paudel](<https://github.com/paudelsushil/resume>)
